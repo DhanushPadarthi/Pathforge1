@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "frontend": {
+      "settings": {
+        "buildCommand": "npm run build",
+        "devCommand": "npm run dev",
+        "outputDirectory": ".next"
+      }
+    }
+  }
+}
